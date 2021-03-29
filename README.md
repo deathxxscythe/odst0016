@@ -39,6 +39,6 @@
 
 <p align="center">
 <a href="https://www.njpatterson.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.njpatterson.xyz-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/nathaniel-patterson/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathaniel%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nathaniel-patterson/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathaniel%20Patterson-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nathanieljonpatterson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nathanieljonpatterson@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
