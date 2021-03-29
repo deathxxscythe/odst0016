@@ -1,7 +1,8 @@
-<h1>Welcome!</h1>
-<p>Test</p>
+
+
 
 <h2> Hey there! I'm Nathaniel.</h2>
+<p>Welcome to my github page! I am a passionate learner, teacher, and lover of all things tech. My background is in IT, but I have been making the transition to software engineering and diving headfirst into the ocean that is software development.</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
