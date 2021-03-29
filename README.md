@@ -1,3 +1,6 @@
+<h1>Welcome!</h1>
+<p>Test</p>
+
 <h2> Hey there! I'm Nathaniel.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
